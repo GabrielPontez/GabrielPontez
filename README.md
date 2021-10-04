@@ -1,4 +1,4 @@
-## Olá, sou o Gabriel Pontes
+## Olá, sou o Gabriel Minga Pontes.
  <div>
   <a href="https://github.com/GabrielPontez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPontez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>

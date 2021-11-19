@@ -1,5 +1,5 @@
 ## Olá, me chamo Gabriel Minga Pontes.
-<p>📚 - Ciências da Computação - Unipê<p>
+<p>📚 - Primeiro Período em Ciências da Computação - Unipê<p>
 <p>💻 - Front-end Dev<p>
  <div>
   <a href="https://github.com/GabrielPontez">

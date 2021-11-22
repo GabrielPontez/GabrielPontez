@@ -1,6 +1,5 @@
 ## Olá, me chamo Gabriel Minga Pontes.
 <p>📚 • Primeiro Período em Ciências da Computação - Unipê<p>
-<p>💻 • Front-end Dev<p>
  <div>
   <a href="https://github.com/GabrielPontez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPontez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>

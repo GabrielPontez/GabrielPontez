@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Minga Pontes.
+## Olá, sou o Gabriel :)
 <p>📚 • Primeiro Período em Ciências da Computação - Unipê<p>
  <div>
   <a href="https://github.com/GabrielPontez">

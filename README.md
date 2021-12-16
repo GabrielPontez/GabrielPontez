@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel 👋
+## Olá, me chamo Gabriel 👋😄
 <p>📚 • Primeiro Período em Ciências da Computação - Unipê.</p>
  <div>
   <a href="https://github.com/GabrielPontez">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPontez&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
- ### 💻 Ferramentas e Tecnologias
+ ### Ferramentas e Tecnologias 💻
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />

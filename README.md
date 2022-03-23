@@ -1,5 +1,5 @@
 ## Olá, me chamo Gabriel 👋😄
-<p>📚 • Primeiro Período em Ciências da Computação - Unipê.</p>
+<p>📚 • Segundo Período em Ciências da Computação - Unipê.</p>
  <div>
   <a href="https://github.com/GabrielPontez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPontez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,6 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
   

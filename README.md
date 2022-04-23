@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel 👋😄
+## Olá, me chamo Gabriel
 <p>📚 • Segundo Período em Ciências da Computação - Unipê.</p>
  <div>
   <a href="https://github.com/GabrielPontez">

@@ -1,5 +1,5 @@
 ## Olá, me chamo Gabriel
-<p>📚 • Terceiro Período em Ciências da Computação - Unipê.</p>
+<p>📚 • Quarto Período em Ciências da Computação - Unipê.</p>
  <div>
   <a href="https://github.com/GabrielPontez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPontez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +25,7 @@
   <a href = "https://github.com/GabrielPontez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "https://instagram.com/gpontezs"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:gabrielpgm32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/gabriel-minga-11538a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/GabrielPontez/GabrielPontez/blob/output/github-contribution-grid-snake.svg) 
 </div>
